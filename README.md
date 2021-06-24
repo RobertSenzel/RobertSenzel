@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robsenzel
+- 👋 Hi, I’m @RobertSenzel
 - 🚀 Astrophysics student
 - 🐍 Python
 - 📫 robzsenz@gmail.com
