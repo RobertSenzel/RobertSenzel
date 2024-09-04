@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertSenzel
-- 🌍 Dublin, Ireland
-- 🚀 Astrophysics student
-- 🐍 Python
+- 🌍 Irish
+- 🚀 Astrophysics PhD student at the Max Planck Institute for Radio Astronomy, Germany
+- 🐍 Python, c++
 
 
 <!---
